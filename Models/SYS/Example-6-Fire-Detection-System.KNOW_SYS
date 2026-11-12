@@ -27,18 +27,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "FD-1",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
@@ -47,18 +37,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "FD-3",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
@@ -92,18 +72,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "HEAT-1",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {

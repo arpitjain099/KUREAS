@@ -27,18 +27,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "PUMP-1",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
@@ -47,18 +37,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "PUMP-3",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
@@ -67,18 +47,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "PUMP-5",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
@@ -87,18 +57,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "PUMP-7",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
@@ -107,18 +67,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "PUMP-9",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {

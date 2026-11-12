@@ -27,18 +27,8 @@
       "deletable": true
     },
     {
-      "type": "text",
-      "value": ",",
-      "deletable": true
-    },
-    {
       "type": "ssc",
       "value": "PUMP-A",
-      "deletable": true
-    },
-    {
-      "type": "text",
-      "value": ",",
       "deletable": true
     },
     {
